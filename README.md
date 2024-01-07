@@ -1,1 +1,0 @@
-# OEIS_Contest
