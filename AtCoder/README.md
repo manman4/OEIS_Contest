@@ -4,10 +4,11 @@
 
 ## 数列
 
-| 数列名 | Anumber | ABC/ARC | 回 | 
-| --- | --- | --- | --- | 
-|               | https://oeis.org/A054473 | ABC | 198 F | 
-| Fubini number | https://oeis.org/A000670 | ARC | 104 E |  
+| 数列名 | A-number | ABC/ARC | 回 | 備考 |
+| --- | --- | --- | --- | --- | 
+|               | https://oeis.org/A062869 | ABC | 134 F | |
+|               | https://oeis.org/A054473 | ABC | 198 F | |
+| Fubini number | https://oeis.org/A000670 | ARC | 104 E |  |
 
 
 ## 公式利用
