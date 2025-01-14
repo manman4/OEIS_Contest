@@ -6,9 +6,9 @@
 
 | 数列名 | A-number | ABC/ARC | 回 | 備考 |
 | --- | --- | --- | --- | --- | 
-|               | https://oeis.org/A062869 | ABC | 134 F | |
-|               | https://oeis.org/A054473 | ABC | 198 F | |
-| Fubini number | https://oeis.org/A000670 | ARC | 104 E |  |
+|               | [A062869](https://oeis.org/A062869) | ABC | 134 F | A072948も同様に解ける |
+|               | [A054473](https://oeis.org/A054473) | ABC | 198 F |  |
+| Fubini number | [A000670](https://oeis.org/A000670) | ARC | 104 E |  |
 
 
 ## 公式利用
