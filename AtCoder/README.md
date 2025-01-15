@@ -6,7 +6,7 @@
 
 | 数列名 | A-number | ABC/ARC | 回 | 類似の数列 |
 | --- | --- | --- | --- | --- | 
-|               | [A062869](https://oeis.org/A062869) | ABC | 134 F | [A072948](https://oeis.org/A072948) |
+|               | [A062869](https://oeis.org/A062869) | ABC | 134 F | [A072948](https://oeis.org/A072948)<br>[A072949](https://oeis.org/A072949) |
 |               | [A054473](https://oeis.org/A054473) | ABC | 198 F |  |
 | Fubini number | [A000670](https://oeis.org/A000670) | ARC | 104 E |  |
 
