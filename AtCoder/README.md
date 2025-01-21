@@ -8,6 +8,7 @@
 | --- | --- | --- | --- | --- | 
 |               | [A062869](https://oeis.org/A062869) | ABC | 134 F | [A072948](https://oeis.org/A072948)<br>[A072949](https://oeis.org/A072949)<br>[A263898](https://oeis.org/A263898) |
 |               | [A054473](https://oeis.org/A054473) | ABC | 198 F |  |
+|               | [A373193](https://oeis.org/A373193) | ABC | 389 D |  |
 | Fubini number | [A000670](https://oeis.org/A000670) | ARC | 104 E |  |
 
 
