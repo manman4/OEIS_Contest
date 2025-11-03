@@ -1,5 +1,7 @@
 # AtCoder
 
+OEIS関係以外は[study_ABC](https://github.com/manman4/study_ABC) に書きます。
+
 
 
 ## 数列
